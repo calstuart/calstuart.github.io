@@ -1,3 +1,8 @@
+body {
+	background-color: lightblue;
+	margin: 80px;
+}
+
 h1 {
 	color: white;
 	font-family: arial, helvetica, sans-serif;
@@ -66,4 +71,24 @@ li a:hover {
 
 .active {
   background-color: #00CED1;
+}
+
+img {
+	display: block;
+  text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#diploma {
+    background-color: yellow;
+}
+
+#blue {
+    color:blue;font-weight:bold
+}
+
+#center {
+  text-align:center;
+  border:1px dotted blue;
 }
